@@ -10454,6 +10454,36 @@ a.text-dark:hover, a.text-dark:focus {
 }
 
 
+.scale-table p{
+  font-size: 16px;
+}
+
+.scale-table i{
+  font-size: 22px;
+  padding-right: 5px;
+}
+
+.web-link{
+  color: #452763;
+  font-weight: 500;
+  background-color: #dacaeb;
+  border: 2px solid #5d54a6;
+  border-radius: 15PX;
+  margin-top: 5px;
+  width: 50%;
+  padding: 5px;
+}
+
+.web-link:hover{
+  background-color: #b284be;
+  color: #fff;
+}
+
+.web-link i{
+  font-size: 22px;
+  padding-right: 5px;
+}
+
 /* ===== Scrollbar CSS ===== */
   /* Firefox */
   * {
