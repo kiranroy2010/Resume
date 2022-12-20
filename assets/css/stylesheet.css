@@ -214,6 +214,10 @@ meter::-webkit-meter-optimum-value {
     {
       background-color:#007bb6;
     }
+    .social-icons a.youtube:hover
+    {
+      background-color:#FF0000;
+    }
     
     @media (max-width:767px)
     {
